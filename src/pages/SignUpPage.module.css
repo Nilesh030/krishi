@@ -1,0 +1,165 @@
+.signupgroupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke);
+  width: 482px;
+  height: 608px;
+}
+.signupgroupItem {
+  position: absolute;
+  top: 426.5px;
+  left: 89.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 304px;
+  height: 1px;
+}
+.signIn,
+.signUp {
+  position: absolute;
+  top: 34px;
+  left: 88px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 88px;
+  height: 32px;
+}
+.signIn {
+  left: 306px;
+  width: 86px;
+  height: 20px;
+}
+.signupgroupInner {
+  position: absolute;
+  top: 168.5px;
+  left: 89.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 303px;
+  height: 1px;
+}
+.lineDiv,
+.lineIcon {
+  position: absolute;
+  top: 250px;
+  left: 90px;
+  width: 302px;
+  height: 2px;
+}
+.lineDiv {
+  top: 333.5px;
+  left: 89.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 304px;
+  height: 1px;
+}
+.enterEmailphoneNo {
+  position: absolute;
+  top: 224px;
+  left: 91px;
+  display: inline-block;
+  width: 300px;
+  height: 27px;
+  background-color: transparent;
+  text-align: center;
+  -webkit-text-stroke: 1px transparent;
+  cursor: text;
+  border: 0;
+}
+.enterPassword,
+.enterYourName,
+.reenterPassword {
+  position: absolute;
+  top: 144px;
+  left: 99px;
+  display: inline-block;
+  width: 285px;
+  height: 25px;
+  background-color: transparent;
+  text-align: center;
+  -webkit-text-stroke: 1px transparent;
+  cursor: text;
+  border: 0;
+}
+.enterPassword,
+.reenterPassword {
+  top: 307px;
+  left: 124px;
+  width: 235px;
+  height: 25px;
+  background-color: transparent;
+  text-align: center;
+  -webkit-text-stroke: 1px transparent;
+  cursor: text;
+  border: 0;
+}
+.reenterPassword {
+  top: 401px;
+  left: 130px;
+  width: 223px;
+  height: 25px;
+  background-color: transparent;
+  text-align: center;
+  -webkit-text-stroke: 1px transparent;
+  cursor: text;
+  border: 0;
+}
+.rectangleButton {
+  width: 204px;
+  height: 38px;
+  position: absolute;
+  top: 478px;
+  left: 139px;
+  cursor: pointer;
+  background: #47B934;
+  border-radius: 15px;
+}
+.register {
+  position: absolute;
+  top: 485px;
+  left: 210px;
+  color: var(--color-white);
+}
+.icbaselineToggleOffIcon {
+  position: absolute;
+  top: 20px;
+  left: 216px;
+  width: 60px;
+  height: 60px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.skipForNow {
+  position: absolute;
+  top: 553px;
+  left: 186px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+  color: var(--color-midnightblue);
+  cursor: pointer;
+}
+.signupgroup {
+  position: relative;
+  width: 482px;
+  height: 608px;
+  flex-shrink: 0;
+}
+.signUpPage {
+  position: relative;
+  background-color: var(--color-gray-300);
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-56xl) var(--padding-497xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray-200);
+  font-family: var(--font-belgrano);
+}

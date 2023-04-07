@@ -1,0 +1,140 @@
+.wp3519531GreenThemesBackgroIcon {
+  position: relative;
+  width: 1920px;
+  height: 1200px;
+  flex-shrink: 0;
+  object-fit: cover;
+  display: none;
+}
+.signingroupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-whitesmoke);
+  width: 482px;
+  height: 608px;
+}
+.signIn,
+.signUp {
+  position: absolute;
+  top: 34px;
+  left: 90.06px;
+  display: inline-block;
+  width: 90.06px;
+  height: 32px;
+}
+.signIn {
+  left: 313.15px;
+  width: 88.01px;
+  height: 20px;
+}
+.signingroupItem {
+  position: absolute;
+  top: 250px;
+  left: 92.1px;
+  width: 309.06px;
+  height: 2px;
+}
+.signingroupInner {
+  position: absolute;
+  top: 333.5px;
+  left: 91.6px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 311.08px;
+  height: 1px;
+}
+.enterEmailphoneNo,
+.enterPassword {
+  position: absolute;
+  top: 224px;
+  left: 93.13px;
+  color: var(--color-darkslategray-200);
+  display: inline-block;
+  width: 307.01px;
+  height: 25px;
+  background-color: transparent;
+  text-align: center;
+  -webkit-text-stroke: 1px transparent;
+  cursor: text;
+  border: 0;
+}
+.enterPassword {
+  top: 307px;
+  left: 126.9px;
+  width: 240.49px;
+  height: 25px;
+  background-color: transparent;
+  text-align: center;
+  -webkit-text-stroke: 1px transparent;
+  cursor: text;
+  border: 0;
+}
+
+.rectangleButton {
+  width: 204px;
+  height: 38px;
+  position: absolute;
+  top: 478px;
+  left: 139px;
+  cursor: pointer;
+  background: #47B934;
+  border-radius: 15px;
+}
+.logIn {
+  position: absolute;
+  top: 486px;
+  left: 196px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 91.08px;
+}
+.skipForNow,
+.vectorIcon {
+  position: absolute;
+  cursor: pointer;
+}
+.vectorIcon {
+  height: 4.11%;
+  width: 10.62%;
+  top: 6.19%;
+  right: 43.52%;
+  bottom: 89.7%;
+  left: 45.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.skipForNow {
+  top: 547px;
+  left: 194px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-inter);
+  color: var(--color-midnightblue);
+  display: inline-block;
+  width: 125.8px;
+}
+.signingroup {
+  position: relative;
+  width: 482px;
+  height: 608px;
+  flex-shrink: 0;
+}
+.signInPage {
+  position: relative;
+  background-color: var(--color-gray-300);
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-56xl) var(--padding-497xl);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-3xs);
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-belgrano);
+}

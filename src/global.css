@@ -1,0 +1,87 @@
+@import url("https://fonts.googleapis.com/css2?family=Scada:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arial:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Belgrano:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bodoni+MT:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-arial: Arial;
+  --font-montserrat: Montserrat;
+  --font-inherit: inherit;
+  --font-scada: Scada;
+  --font-montserrat-alternates: "Montserrat Alternates";
+  --font-belgrano: Belgrano;
+  --font-be-vietnam-pro: "Be Vietnam Pro";
+  --font-bodoni-mt: "Bodoni MT";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-xs: 12px;
+  --font-size-mini: 15px;
+  --font-size-6xl: 25px;
+  --font-size-2xs: 11px;
+  --font-size-11xl: 30px;
+  --font-size-31xl: 50px;
+  --font-size-lg: 18px;
+  --font-size-3xs: 10px;
+  --font-size-5xl: 24px;
+  --font-size-29xl: 48px;
+
+  /* Colors */
+  --color-gray-100: #2e2c2c;
+  --color-gray-200: #2d2b2b;
+  --color-gray-300: rgba(255, 255, 255, 0);
+  --color-gainsboro-100: #e6e2e2;
+  --color-gainsboro-200: #dfd8d8;
+  --color-gainsboro-300: #d9d9d9;
+  --color-gainsboro-400: rgba(217, 217, 217, 0.2);
+  --color-gainsboro-500: rgba(217, 217, 217, 0.7);
+  --color-gainsboro-600: rgba(217, 217, 217, 0.6);
+  --color-gainsboro-700: rgba(217, 217, 217, 0);
+  --color-silver-100: #c6c1c1;
+  --color-white: #fff;
+  --color-snow: #fffbfb;
+  --color-black: #000;
+  --color-limegreen-100: #63ce30;
+  --color-yellowgreen: rgba(101, 187, 48, 0.03);
+  --color-darkslategray-100: #3b3939;
+  --color-darkslategray-200: #403636;
+  --color-midnightblue: #2e2781;
+  --color-whitesmoke: rgba(242, 239, 239, 0.8);
+
+  /* Gaps */
+  --gap-5xl: 24px;
+  --gap-3xs: 10px;
+
+  /* Paddings */
+  --padding-2xl: 21px;
+  --padding-14xl: 33px;
+  --padding-16xl: 35px;
+  --padding-7xl: 26px;
+  --padding-3xs: 10px;
+  --padding-21xl: 40px;
+  --padding-56xl: 75px;
+  --padding-497xl: 516px;
+
+  /* border radiuses */
+  --br-4xs: 9px;
+  --br-6xl: 25px;
+  --br-15xl: 34px;
+  --br-lg: 18px;
+  --br-7xl: 26px;
+  --br-8xs: 5px;
+  --br-16xl: 35px;
+  --br-3xl: 22px;
+  --br-11xl: 30px;
+}
